@@ -41,7 +41,7 @@ and success criteria  of our project.
 #### Initial Dashboard
 
 ---
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Inital_report.png" width="550" class="center">
+(https://github.com/RugvedSoman/sales_insights/blob/main/initial_db.png?raw=true)
 
 #### Updated Dashboard
 
