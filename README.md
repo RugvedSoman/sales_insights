@@ -43,17 +43,16 @@ and success criteria  of our project.
 ---
 <img src="https://github.com/RugvedSoman/sales_insights/blob/main/initial_db.png?raw=true" width="550" class="center">
 
-(https://github.com/RugvedSoman/sales_insights/blob/main/initial_db.png?raw=true)
 
 #### Updated Dashboard
 
 ---
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Final_report.png" width="550" class="center">
+<img src="https://github.com/RugvedSoman/sales_insights/blob/main/updated_db.png?raw=true" width="550" class="center">
 
 #### Interactive dashboard
 
 ---
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/GIF.gif" width="600" class="center">
+[https://public.tableau.com/views/Sales_Insights_17334806412880/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 
 
